@@ -1,0 +1,4 @@
+El flux de treball basic amb Git consistix en:
+	1- Fer canvis en el repositori
+	2- Afegit els canvis a la zona d intercanvi.
+	3- fer un commit dels canvis
