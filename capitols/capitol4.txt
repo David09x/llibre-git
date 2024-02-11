@@ -1,0 +1,1 @@
+En este capitol veurem con usar Github per a allotjar repositoris en remote
